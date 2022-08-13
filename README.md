@@ -5,7 +5,7 @@ Development Manager @ Jugnu Tech Pvt. Ltd.
 ---------------------------------------
 
 *   🌍  I'm based in Lahore, Pakistan
-*   🖥️  See my portfolio at [iamshakir.dev](http://iamshakir.dev)
+*   🖥️  See my portfolio at [iamshakir.com](https://iamshakir.netlify.app/)
 *   ✉️  You can contact me at [shakiraliswe@gmail.com](mailto:shakiraliswe@gmail.com)
 *   🧠  I'm learning AWS, Python, Node.js, Reactjs & React-Native.
 
