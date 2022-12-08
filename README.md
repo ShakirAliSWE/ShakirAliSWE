@@ -1,13 +1,10 @@
 Hello 👋 My name is Shakir Ali
-==============================
-
-Development Manager @ Jugnu Tech Pvt. Ltd.
 ---------------------------------------
 
 *   🌍  I'm based in Lahore, Pakistan
 *   🖥️  See my portfolio at [iamshakir.com](https://iamshakir.netlify.app/)
 *   ✉️  You can contact me at [shakiraliswe@gmail.com](mailto:shakiraliswe@gmail.com)
-*   🧠  I'm learning AWS, Python, Node.js, Reactjs & React-Native.
+*   🧠  I'm learning AWS, PHP, Node.js, React.js & React-Native.
 
 ### Skills
 <p align="left">
