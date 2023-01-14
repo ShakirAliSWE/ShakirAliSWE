@@ -2,7 +2,7 @@ Hello 👋 My name is Shakir Ali
 ---------------------------------------
 
 *   🌍  I'm based in Lahore, Pakistan
-*   🖥️  See my portfolio at [iamshakir.com](https://iamshakir.netlify.app/)
+*   🖥️  See my portfolio at [shakirali.com](https://shakirali.netlify.app/)
 *   ✉️  You can contact me at [shakiraliswe@gmail.com](mailto:shakiraliswe@gmail.com)
 *   🧠  I'm learning AWS, PHP, Node.js, React.js & React-Native.
 
