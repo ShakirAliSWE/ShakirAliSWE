@@ -1,26 +1,17 @@
-Hello 👋 My name is Shakir Ali
----------------------------------------
+# 💫 About Me:
+🔭 I’m currently working on various projects as an Experienced Full Stack Developer, utilizing my skills in ReactJs, NextJs, PHP, Node, JavaScript, HTML/CSS, AWS, Express, Redux Toolkit, and more.<br>👯 I’m looking to collaborate on interesting software development projects, especially those involving ReactJs, NextJs, ReduxToolkit, and AWS.<br>🤝 I’m looking for help with enhancing my expertise in cloud development and exploring advanced AWS services.<br>🌱 I’m currently learning new technologies and staying updated with the latest trends in software development to deliver efficient and reliable software solutions.<br>💬 Ask me about my experience as a Full Stack Developer, my proficiency in ReactJs, NextJs, PHP, Node, MySQL, MongoDB, AWS services, code collaboration, and version control.<br>⚡ Fun fact: I enjoy solving complex problems and finding creative solutions to enhance software performance and user experience.
 
-*   🌍  I'm based in Lahore, Pakistan
-*   🖥️  See my portfolio at [shakirali.com](https://shakirali.netlify.app/)
-*   ✉️  You can contact me at [shakiraliswe@gmail.com](mailto:shakiraliswe@gmail.com)
-*   🧠  I'm learning AWS, PHP, Node.js, React.js & React-Native.
 
-### Skills
-<p align="left">
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://cdn.cdnlogo.com/logos/a/19/aws.svg" width="36" height="36" alt="AWS" /></a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://cdn.cdnlogo.com/logos/n/94/nodejs-icon.svg" width="36" height="36" alt="Nodejs" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.cdnlogo.com/logos/p/3/python.svg" width="36" height="36" alt="Python" /></a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://cdn.cdnlogo.com/logos/p/79/php.svg" width="36" height="36" alt="PHP" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.cdnlogo.com/logos/j/44/javascript.svg" width="36" height="36" alt="Javascript" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://cdn.cdnlogo.com/logos/h/90/html-5.svg" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.cdnlogo.com/logos/r/63/react.svg" width="36" height="36" alt="React" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://cdn.cdnlogo.com/logos/c/18/css.svg" width="36" height="36" alt="CSS" /></a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://cdn.cdnlogo.com/logos/b/74/bootstrap-5.svg" width="36" height="36" alt="Bootstrap" /></a>
-</p>
-                    
-### Socials
-<p align="left"> 
-  <a href="https://www.linkedin.com/in/shakiraliswe/" target="_blank" rel="noreferrer"><img src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" width="32" height="32" /></a>
-  <a href="https://www.facebook.com/ShakirAliSWE/" target="_blank" rel="noreferrer"><img src="https://cdn.cdnlogo.com/logos/f/91/facebook-icon.svg" width="32" height="32" /></a>
-</p>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shakiraliswe) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shakiraliswe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shakiraliswe) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shakiraliswe) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/shakiraliswe) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/shakiraliswe) 
+
+# 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shakiraliswe&theme=default&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shakiraliswe&theme=default&hide_border=true)<br/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=shakiraliswe&icon=0&color=12)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
