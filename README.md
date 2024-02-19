@@ -1,17 +1,32 @@
-# 💫 About Me:
-🚀 Full Stack Developer with expertise in ReactJS, NextJS, PHP, NodeJS, ExpressJS, NestJS, JavaScript, HTML/CSS, AWS, and Redux Toolkit.<br>👥 Open to exciting collaborations in ReactJS, NextJS, Redux Toolkit, NodeJS, ExpressJS, NestJS, and AWS projects.<br>🌱 Committed to ongoing learning and staying updated with the latest software development trends for efficient and reliable solutions.<br>💬 Feel free to inquire about my Full Stack Development experience, proficiency in ReactJS, NextJS, PHP, NodeJS, ExpressJS, NestJS, MySQL, MongoDB, AWS services, code.<br>⚡ Fun fact: I enjoy solving complex problems and finding creative solutions to enhance software performance and user experience.
+# Shakir Ali
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshakiraliswe%2Fshakiraliswe&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/shakiraliswe)](https://twitter.com/shakiraliswe)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shakiraliswe/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/shakiraliswe/)](https://www.instagram.com/shakiraliswe)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shakiraliswe@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://shakirali.netlify.app/)](https://shakirali.netlify.app/)
+[![Github](https://img.shields.io/github/followers/shakiraliswe?label=Follow&style=social)](https://github.com/shakiraliswe)
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shakiraliswe) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shakiraliswe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shakiraliswe) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shakiraliswe) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)]([https://stackoverflow.com/users/8759591/shakir-ali](https://stackoverflow.com/users/8759591/shakir-ali)) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/shakiraliswe) 
+- 💻 Experience Full Stack Developer
+- 📚 Committed to continuous learning for efficient solutions
+- ⚡ Enjoys problem-solving for better user experiences
+- 🤝 Open to collaborations
+- 📧 How to reach me: shakiraliswe@gmail.com
 
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shakiraliswe&theme=default&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shakiraliswe&theme=default&hide_border=true)<br/>
+### 🖥 Skills
 
----
-[![](https://visitcount.itsvg.in/api?id=shakiraliswe&icon=0&color=12)](https://visitcount.itsvg.in)
+- Full Stack Development (JavaScript, PHP)
+- MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS)
+- Database Management (MySQL, PostgreSQL, NoSQL)
+- Cloud Computing (AWS, Google Cloud Platform)
+- DevOps (CI/CD pipelines)
+- Testing Frameworks (Jest)
+### ⚙️ Tech Stack
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Bootstrap](https://img.shields.io/badge/-AWS-05122A?style=flat-square&logo=AWS&color=323330) ![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=flat-square&logo=Javascript&color=323330) ![Bootstrap](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=React&color=323330) ![Bootstrap](https://img.shields.io/badge/-Next.js-05122A?style=flat-square&logo=Next.js&color=323330) ![Bootstrap](https://img.shields.io/badge/-Redux-05122A?style=flat-square&logo=Redux&color=323330) ![Bootstrap](https://img.shields.io/badge/-Node.js-05122A?style=flat-square&logo=Node.js&color=323330) ![Bootstrap](https://img.shields.io/badge/-Express-05122A?style=flat-square&logo=Express&color=323330) ![Bootstrap](https://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=PHP&color=323330) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=323330) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=323330) ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=MongoDB&color=323330) ![Bootstrap](https://img.shields.io/badge/-Redis-05122A?style=flat-square&logo=Redis&color=323330) ![Bootstrap](https://img.shields.io/badge/-Socket.io-05122A?style=flat-square&logo=Socket.io&color=323330) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=323330)
+
+<div>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakiraliswe&show_icons=true&locale=en&layout=compact" alt="shakiraliswe" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=shakiraliswe&" alt="shakiraliswe" />
+</div>
