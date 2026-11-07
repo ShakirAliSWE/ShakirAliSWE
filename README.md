@@ -1,32 +1,82 @@
-# Shakir Ali
+<div align="center">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshakiraliswe%2Fshakiraliswe&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/shakiraliswe)](https://twitter.com/shakiraliswe)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shakiraliswe/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/shakiraliswe/)](https://www.instagram.com/shakiraliswe)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shakiraliswe@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://shakirali.netlify.app/)](https://shakirali.netlify.app/)
-[![Github](https://img.shields.io/github/followers/shakiraliswe?label=Follow&style=social)](https://github.com/shakiraliswe)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:198754,100:0b3d2e&height=200&section=header&text=Shakir%20Ali&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Architect%20%7C%20Full%20Stack%20Engineer&descSize=20&descAlignY=58" alt="Shakir Ali" width="100%" />
 
-- 💻 Experience Full Stack Developer
-- 📚 Committed to continuous learning for efficient solutions
-- ⚡ Enjoys problem-solving for better user experiences
-- 🤝 Open to collaborations
-- 📧 How to reach me: shakiraliswe@gmail.com
+<a href="https://github.com/shakiraliswe">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=198754&center=true&vCenter=true&width=700&lines=Architecting+Agentic+AI+%2B+Computer+Vision+platforms;Node.js+%7C+React+%7C+Next.js+%7C+AWS+Microservices;Clean+code.+Reliable+systems.+Great+UX." alt="Typing animation" />
+</a>
 
-### 🖥 Skills
+<br/>
 
-- Full Stack Development (JavaScript, PHP)
-- MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS)
-- Database Management (MySQL, PostgreSQL, NoSQL)
-- Cloud Computing (AWS, Google Cloud Platform)
-- DevOps (CI/CD pipelines)
-- Testing Frameworks (Jest)
-### ⚙️ Tech Stack
+[![Portfolio](https://img.shields.io/badge/Portfolio-198754?style=flat-square&logo=googlechrome&logoColor=white)](https://shakiraliswe.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakiraliswe/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/shakiraliswe)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/shakiraliswe)
+[![Email](https://img.shields.io/badge/Email-C14438?style=flat-square&logo=gmail&logoColor=white)](mailto:shakiraliswe@gmail.com)
 
-![Bootstrap](https://img.shields.io/badge/-AWS-05122A?style=flat-square&logo=AWS&color=323330) ![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=flat-square&logo=Javascript&color=323330) ![Bootstrap](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=React&color=323330) ![Bootstrap](https://img.shields.io/badge/-Next.js-05122A?style=flat-square&logo=Next.js&color=323330) ![Bootstrap](https://img.shields.io/badge/-Redux-05122A?style=flat-square&logo=Redux&color=323330) ![Bootstrap](https://img.shields.io/badge/-Node.js-05122A?style=flat-square&logo=Node.js&color=323330) ![Bootstrap](https://img.shields.io/badge/-Express-05122A?style=flat-square&logo=Express&color=323330) ![Bootstrap](https://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=PHP&color=323330) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=323330) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=323330) ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=MongoDB&color=323330) ![Bootstrap](https://img.shields.io/badge/-Redis-05122A?style=flat-square&logo=Redis&color=323330) ![Bootstrap](https://img.shields.io/badge/-Socket.io-05122A?style=flat-square&logo=Socket.io&color=323330) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=323330)
+<img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fshakiraliswe&label=Profile%20views&icon=github&color=%23198754&message=&style=flat-square&tz=UTC" alt="Profile views" />
 
-<div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakiraliswe&show_icons=true&locale=en&layout=compact" alt="shakiraliswe" />
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=shakiraliswe&" alt="shakiraliswe" />
 </div>
+
+<br/>
+
+## About
+
+I'm a Software Architect with 7+ years of experience turning complex business problems into scalable, reliable products. I've built B2B e-commerce, CRM and merchandising platforms used by thousands of field users, and I currently lead the engineering team behind **Salesflo Engage**, combining Agentic AI and Computer Vision to give enterprise sales teams real-time visibility.
+
+- 🔭 Currently working on: **Salesflo Engage**, an Agentic AI-powered field force platform
+- 🌱 Currently learning: Agentic AI, Edge AI and Computer Vision (YOLO, TFLite)
+- ☁️ AWS Certified Developer – Associate
+- 🤝 Open to collaborations and architecture discussions
+- 📫 Reach me at **shakiraliswe@gmail.com**
+
+<br/>
+
+## Tech Stack
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,ts,py,php,react,nextjs,nodejs,express,mysql,mongodb,dynamodb,redis,aws,docker,githubactions,git,firebase,tensorflow&perline=10&theme=light" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,php,react,nextjs,nodejs,express,mysql,mongodb,dynamodb,redis,aws,docker,githubactions,git,firebase,tensorflow&perline=10&theme=dark" alt="Tech stack" />
+</picture>
+
+<sub>Agentic AI · NLQ · Computer Vision · YOLO · TFLite · Roboflow · Microservices · Event-Driven Architecture</sub>
+
+</div>
+
+<br/>
+
+## Featured Projects
+
+| Project | What it does | Stack |
+| :------ | :----------- | :---- |
+| **Salesflo Engage** | Agentic AI field force platform with NLQ lead discovery, Edge AI shelf analysis (SKU detection, planogram compliance), offline-first tasks and live GPS monitoring for 5K+ field users | React Native · Node.js · AWS · Python · YOLO · TFLite |
+| **B2B E-Commerce Platform** | Full-stack revamp for a large retail network: 80% faster loads, 60% smaller app, higher transactions and retention | Node.js · React · Next.js · MySQL |
+| **Field CRM and Journey Planner** | CRM for Philip Morris International plus a Google Maps route planner that raised promoter productivity by 40% | PHP · JavaScript · Google Maps API · MySQL |
+
+<br/>
+
+## GitHub Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shakiraliswe&theme=github_dark" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shakiraliswe&theme=github" alt="GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shakiraliswe&theme=github_dark" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shakiraliswe&theme=github" alt="Top languages" />
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=shakiraliswe&hide_border=true&background=0D1117&ring=198754&fire=198754&currStreakLabel=198754&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
+  <img src="https://streak-stats.demolab.com/?user=shakiraliswe&hide_border=true&background=FFFFFF&ring=198754&fire=198754&currStreakLabel=198754&sideLabels=24292F&currStreakNum=24292F&sideNums=24292F&dates=57606A" alt="GitHub streak" />
+</picture>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:198754,100:0b3d2e&height=100&section=footer" alt="" width="100%" />
